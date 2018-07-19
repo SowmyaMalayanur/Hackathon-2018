@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\d258c0acc60e1d747997230bb2e4e9f7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\30fbcf658422f8206e853caccd7067f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\bd805d79e00630c8aeb122f0d390b9bc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\98e67a0807c1885cb41bc5003982d2aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\029f6b9abb569a30c4ca86b71020e734\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\629e18bac7f69fba6e69da3c3e36d343\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356488352c77062e8dea23ea5856de51\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54c0230aefb51cd5a9f502ea2003952d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fdac3e1b6d18008f0dea0b1bc455985e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7872c57c258ef623867f02cf23a7091c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cb726dce12af4a8d8b4a386b03ff2f39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1d57ab4656e26b0af31e5f4a7cbf3c9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4eeddd3479d1dd145c072a1f83b544d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\017672f5caf8b0fecfdee78d35303787\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\659583b892d8d9fbea6ab301db1eaba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\52d649a260eb3f5475696a529fb99873\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\407bf45d0da2a4ef2a1b5850ce566bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4b1957be78f6cf30f9ef673adbb3e4ed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8663fd105ccfab9493a36ecd28d0c9a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\49d44ddfb112a1cffe4c7317796e6ba7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bf48b9a8944642365ceb8fb30332c7eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\29cdf8f37066f7cc478e1761babb7a49\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\d258c0acc60e1d747997230bb2e4e9f7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\d258c0acc60e1d747997230bb2e4e9f7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\bd805d79e00630c8aeb122f0d390b9bc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\bd805d79e00630c8aeb122f0d390b9bc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\98e67a0807c1885cb41bc5003982d2aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\98e67a0807c1885cb41bc5003982d2aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\629e18bac7f69fba6e69da3c3e36d343\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\629e18bac7f69fba6e69da3c3e36d343\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356488352c77062e8dea23ea5856de51\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356488352c77062e8dea23ea5856de51\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\d258c0acc60e1d747997230bb2e4e9f7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\d258c0acc60e1d747997230bb2e4e9f7\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\30fbcf658422f8206e853caccd7067f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\30fbcf658422f8206e853caccd7067f1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\bd805d79e00630c8aeb122f0d390b9bc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\bd805d79e00630c8aeb122f0d390b9bc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\98e67a0807c1885cb41bc5003982d2aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\98e67a0807c1885cb41bc5003982d2aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\029f6b9abb569a30c4ca86b71020e734\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\029f6b9abb569a30c4ca86b71020e734\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\629e18bac7f69fba6e69da3c3e36d343\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\629e18bac7f69fba6e69da3c3e36d343\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356488352c77062e8dea23ea5856de51\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\356488352c77062e8dea23ea5856de51\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\bedfa5a483cfeb843d630594d2d100aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54c0230aefb51cd5a9f502ea2003952d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54c0230aefb51cd5a9f502ea2003952d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fdac3e1b6d18008f0dea0b1bc455985e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fdac3e1b6d18008f0dea0b1bc455985e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7872c57c258ef623867f02cf23a7091c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\7872c57c258ef623867f02cf23a7091c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cb726dce12af4a8d8b4a386b03ff2f39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\cb726dce12af4a8d8b4a386b03ff2f39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1d57ab4656e26b0af31e5f4a7cbf3c9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1d57ab4656e26b0af31e5f4a7cbf3c9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4eeddd3479d1dd145c072a1f83b544d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4eeddd3479d1dd145c072a1f83b544d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\017672f5caf8b0fecfdee78d35303787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\017672f5caf8b0fecfdee78d35303787\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\659583b892d8d9fbea6ab301db1eaba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\659583b892d8d9fbea6ab301db1eaba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\52d649a260eb3f5475696a529fb99873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\52d649a260eb3f5475696a529fb99873\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\407bf45d0da2a4ef2a1b5850ce566bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\407bf45d0da2a4ef2a1b5850ce566bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4b1957be78f6cf30f9ef673adbb3e4ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4b1957be78f6cf30f9ef673adbb3e4ed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8663fd105ccfab9493a36ecd28d0c9a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8663fd105ccfab9493a36ecd28d0c9a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\49d44ddfb112a1cffe4c7317796e6ba7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\49d44ddfb112a1cffe4c7317796e6ba7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bf48b9a8944642365ceb8fb30332c7eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bf48b9a8944642365ceb8fb30332c7eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\29cdf8f37066f7cc478e1761babb7a49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\29cdf8f37066f7cc478e1761babb7a49\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\somalaya\Downloads\android-vision-master\android-vision-master\visionSamples\ocr-codelab\ocr-reader-complete\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\somalaya\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\45f75e17126512a26d6e97afda62bd74\AndroidManifest.xml:24:13-79
